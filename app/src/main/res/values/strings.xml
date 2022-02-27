@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PersonalHealthMonitoringApp</string>
+    <string name="health_monitor">Health Monitor</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered ? Login Here</string>
+    <string name="login">Login</string>
+    <string name="new_here_create_account">New Here ? Create Account</string>
+    <string name="reset_password">Reset Password</string>
+</resources>
