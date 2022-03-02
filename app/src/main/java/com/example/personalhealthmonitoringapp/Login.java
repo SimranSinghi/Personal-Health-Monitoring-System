@@ -69,14 +69,10 @@ public class Login extends AppCompatActivity {
                     @Override
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if(task.isSuccessful()){
-                            if(fAuth.getCurrentUser().isEmailVerified()){
                                 Toast.makeText(Login.this, "Logged in Successfully", Toast.LENGTH_LONG).show();
                                 startActivity(new Intent(getApplicationContext(),MainActivity.class));
                             }
-                            else{
-                                Toast.makeText(Login.this, "Please verify your email address" + task.getException().getMessage(), Toast.LENGTH_LONG).show();
-                            }
-                        }else {
+                        else {
                             Toast.makeText(Login.this, "Error ! " + task.getException().getMessage(), Toast.LENGTH_LONG).show();
 
                         }
@@ -88,12 +84,12 @@ public class Login extends AppCompatActivity {
         });
 
 
-        mLogin.setOnClickListener(new View.OnClickListener() {
+    /*    mLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(getApplicationContext(),MainActivity.class));
             }
-        });
+        }); */
 
         mCreateAccount.setOnClickListener(new View.OnClickListener() {
             @Override
