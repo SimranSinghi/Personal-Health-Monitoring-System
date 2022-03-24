@@ -86,6 +86,11 @@ public class profileActivity extends AppCompatActivity {
                 String DoctorName = mdocName.getText().toString();
                 String DoctorVisitDate = mdocVisitDate.getText().toString();
 
+                if(DoctorVisitDate.length() > 10){
+                    mdocVisitDate.setError("Incorrect format");
+                    return;
+                }
+
                 //    String id = UUID.randomUUID().toString();
                 //    saveToFireStore(id , Name , Gender , Age , Height , Weight , DoctorName , DoctorVisitDate);
 
