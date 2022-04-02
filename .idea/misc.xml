@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/Downloads/PHMS_Simran/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.164" />
+        <entry key="..\:/Users/Dell/Downloads/PHMS_Simran/app/src/main/res/drawable/circle.xml" value="0.164" />
+        <entry key="..\:/Users/Dell/Downloads/PHMS_Simran/app/src/main/res/drawable/ic_launcher_background.xml" value="0.164" />
+        <entry key="..\:/Users/Dell/Downloads/PHMS_Simran/app/src/main/res/layout/activity_main.xml" value="0.28191796649335643" />
+        <entry key="..\:/Users/Dell/Downloads/PHMS_Simran/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Downloads/PHMS_Simran/app/src/main/res/layout/activity_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Downloads/Personal-Health-Monitoring-System-SujeethS1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Downloads/Personal-Health-Monitoring-System-SujeethS1/app/src/main/res/layout/activity_profile.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/PHMS_Simran/app/src/main/res/layout/item.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/Personal-Health-Monitoring-System-Profile_new/Downloads/PHMS_Simran/app/src/main/res/layout/activity_add_vital.xml" value="0.2359375" />
+        <entry key="..\:/Users/RAJ PATEL/Personal-Health-Monitoring-System-Profile_new/Downloads/PHMS_Simran/app/src/main/res/layout/activity_vital.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/Personal-Health-Monitoring-System-Profile_new/Downloads/PHMS_Simran/app/src/main/res/layout/item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
