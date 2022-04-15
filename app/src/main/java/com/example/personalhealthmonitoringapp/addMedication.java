@@ -112,7 +112,7 @@ public class addMedication extends AppCompatActivity implements DatePickerDialog
                     return;
                 }
                 if(Mpres.length()<5 || Mpres.length()>100){
-                    DName.setError("Medicine Prescription Should have minimum 5 and maximum 100 Characters.");
+                    Med_pres.setError("Medicine Prescription Should have minimum 5 and maximum 100 Characters.");
                     return;
                 }
                 if(!medTime.contains(":")){

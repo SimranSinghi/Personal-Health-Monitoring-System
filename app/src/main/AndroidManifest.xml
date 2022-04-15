@@ -9,6 +9,33 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.PersonalHealthMonitoringApp">
+
+
+        <activity android:name=".FAQs"></activity>
+        <activity android:name=".Osteodinner" />
+        <activity android:name=".Osteolunch" />
+        <activity android:name=".Osteobreakfast" />
+        <activity android:name=".Choldinner" />
+        <activity android:name=".Chollunch" />
+        <activity android:name=".Cholbreakfast" />
+        <activity android:name=".Candinner" />
+        <activity android:name=".Canlunch" />
+        <activity android:name=".Canbreakfast" />
+        <activity android:name=".Obdinner" />
+        <activity android:name=".Oblunch" />
+        <activity android:name=".Obbreakfast" />
+        <activity android:name=".Dbdinner" />
+        <activity android:name=".Dblunch" />
+        <activity android:name=".recipe1_vegetableomelet" />
+
+        <activity android:name=".OsteoporosisDP" />
+        <activity android:name=".CholestrolDP" />
+        <activity android:name=".CancerDP" />
+        <activity android:name=".ObesityDP" />
+        <activity android:name=".DiabetesDP" />
+
+
+
         <activity
             android:name=".addMedication"
             android:exported="false" />
