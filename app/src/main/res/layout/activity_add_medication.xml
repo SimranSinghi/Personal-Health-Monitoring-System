@@ -19,7 +19,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="0dp"
-            android:text="@string/enter_medication_deatails"
+            android:text="Enter medication details"
             android:textAlignment="center"
             android:textSize="34sp"
             android:textStyle="bold" />
@@ -31,7 +31,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
             android:ems="10"
-            android:hint="@string/enter_doctor_s_name"
+            android:hint="Enter doctor's name"
             android:inputType="textPersonName" />
 
 
@@ -44,7 +44,7 @@
                 android:id="@+id/dateBtn"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:text="@string/pick_a_date">
+                android:text="Pick a date">
 
             </Button>
 
@@ -64,7 +64,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
             android:ems="10"
-            android:hint="@string/enter_health_condition_disease"
+            android:hint="Enter health condition or disease"
             android:inputType="textPersonName" />
 
         <EditText
@@ -73,7 +73,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
             android:ems="10"
-            android:hint="@string/medicines_prescribed"
+            android:hint="Medicines Prescribed"
             android:inputType="textPersonName" />
 
 
@@ -83,7 +83,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
             android:ems="10"
-            android:hint="@string/time_of_consumption_of_medicine"
+            android:hint="Time of consumption of medicine"
             android:inputType="time|text" />
 
         <EditText
@@ -93,7 +93,7 @@
             android:layout_marginBottom="20dp"
             android:ems="10"
             android:gravity="start|top"
-            android:hint="@string/enter_notes"
+            android:hint="Enter Notes"
             android:inputType="textMultiLine" />
 
 
